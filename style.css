@@ -1,0 +1,66 @@
+body{
+	background-color: #66CDAA;
+	text-align: center;
+	font-family: cursive;
+}
+h1{ text-align: center;
+	font-family: cursive;
+color: #FFFAFA;
+}
+p.information{ font-family: cursive;
+	color: #FFFAFA;
+
+}
+p.list_of_subjects{
+	
+	color: #FFFAFA;
+	j	font-family: cursive;
+}
+#Malika{
+	width: 400px;
+	height: 600px;
+
+}
+#ph1{
+	width: 300px;
+	height: 400px;
+}
+#ph2{
+	width: 300px;
+	height: 400px;
+}
+p.favorite_movies{
+	text-align: center;
+	color: #FFFAFA;
+	font-family: cursive;
+}
+h6{
+	color: #FFFAFA;
+	font-family: cursive;
+}
+#goodperson{
+	text-align: center;
+	color: #FFFAFA;
+		font-family: cursive;
+}
+#quality
+{
+	text-align: center;
+	color: #FFFAFA;
+		font-family: cursive;
+}
+
+#my_mood{
+	text-align: center;
+	color: #FFFAFA;
+		font-family: cursive;
+}
+a{color: #FFFAFA;
+	text-decoration: none;
+		font-family: cursive;
+}
+ul{ text-align: center;
+	color: #FFFAFA;
+		 display: inline-block;
+		 	font-family: cursive;
+}
